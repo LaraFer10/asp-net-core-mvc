@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lara\\Desktop\\Progamadora Google\\Visual Studio Projects\\SalesWebMvc\\SalesWebMvc.csproj": {}
+    "C:\\Users\\Lara\\Desktop\\Progamadora Google\\Visual Studio Projects\\Asp.net-core-mvc\\asp-net-core-mvc\\SalesWebMvc\\SalesWebMvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lara\\Desktop\\Progamadora Google\\Visual Studio Projects\\SalesWebMvc\\SalesWebMvc.csproj": {
+    "C:\\Users\\Lara\\Desktop\\Progamadora Google\\Visual Studio Projects\\Asp.net-core-mvc\\asp-net-core-mvc\\SalesWebMvc\\SalesWebMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lara\\Desktop\\Progamadora Google\\Visual Studio Projects\\SalesWebMvc\\SalesWebMvc.csproj",
+        "projectUniqueName": "C:\\Users\\Lara\\Desktop\\Progamadora Google\\Visual Studio Projects\\Asp.net-core-mvc\\asp-net-core-mvc\\SalesWebMvc\\SalesWebMvc.csproj",
         "projectName": "SalesWebMvc",
-        "projectPath": "C:\\Users\\Lara\\Desktop\\Progamadora Google\\Visual Studio Projects\\SalesWebMvc\\SalesWebMvc.csproj",
+        "projectPath": "C:\\Users\\Lara\\Desktop\\Progamadora Google\\Visual Studio Projects\\Asp.net-core-mvc\\asp-net-core-mvc\\SalesWebMvc\\SalesWebMvc.csproj",
         "packagesPath": "C:\\Users\\Lara\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lara\\Desktop\\Progamadora Google\\Visual Studio Projects\\SalesWebMvc\\obj\\",
+        "outputPath": "C:\\Users\\Lara\\Desktop\\Progamadora Google\\Visual Studio Projects\\Asp.net-core-mvc\\asp-net-core-mvc\\SalesWebMvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -56,6 +56,10 @@
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.9, )"
             }
           },
           "imports": [
