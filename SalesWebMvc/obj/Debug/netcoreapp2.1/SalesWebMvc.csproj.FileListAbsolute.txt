@@ -30,3 +30,8 @@ C:\Users\Lara\Desktop\Progamadora Google\Visual Studio Projects\Asp.net-core-mvc
 C:\Users\Lara\Desktop\Progamadora Google\Visual Studio Projects\Asp.net-core-mvc\asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.dll
 C:\Users\Lara\Desktop\Progamadora Google\Visual Studio Projects\Asp.net-core-mvc\asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 C:\Users\Lara\Desktop\Progamadora Google\Visual Studio Projects\Asp.net-core-mvc\asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
+C:\Users\Lara\Desktop\Progamadora Google\Visual Studio Projects\Asp.net-core-mvc\asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.g.cshtml.cs
+C:\Users\Lara\Desktop\Progamadora Google\Visual Studio Projects\Asp.net-core-mvc\asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.g.cshtml.cs
+C:\Users\Lara\Desktop\Progamadora Google\Visual Studio Projects\Asp.net-core-mvc\asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.g.cshtml.cs
+C:\Users\Lara\Desktop\Progamadora Google\Visual Studio Projects\Asp.net-core-mvc\asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.g.cshtml.cs
+C:\Users\Lara\Desktop\Progamadora Google\Visual Studio Projects\Asp.net-core-mvc\asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.g.cshtml.cs
