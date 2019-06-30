@@ -38,3 +38,4 @@ C:\Users\Lara\Desktop\Progamadora Google\Visual Studio Projects\Asp.net-core-mvc
 C:\Users\Lara\Desktop\Progamadora Google\Visual Studio Projects\Asp.net-core-mvc\asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.g.cshtml.cs
 C:\Users\Lara\Desktop\Progamadora Google\Visual Studio Projects\Asp.net-core-mvc\asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.g.cshtml.cs
 C:\Users\Lara\Desktop\Progamadora Google\Visual Studio Projects\Asp.net-core-mvc\asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.g.cshtml.cs
+C:\Users\Lara\Desktop\Progamadora Google\Visual Studio Projects\Asp.net-core-mvc\asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.g.cshtml.cs
